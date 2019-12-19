@@ -1,19 +1,27 @@
-.nav-item{
+.nav-link{
     color:blue;
     float:left;
 }
 .navbar{
     background-color:#ffffff;
+    border-bottom-style: solid;
+    border-width:2px;
+    border-color:#cccccc;
+
 
 }
 .navbar-brand{
     background-color:#4aaaa5;
-    color:#ffffff
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+    color:#ffffff;
+    font-weight: bold;
+    padding:20px;
+    font-size: 25px;
 }
 .rounded{
     height:200px;
     width:200px;
-    margin:20px;
+    margin:10px 20px 20px 20px;
 
 }
 body {
@@ -27,4 +35,15 @@ body {
 #about{
     color:#4aaaa5;
     font-family: 'Georgia', Times, "Times New Roman", serif;
+    margin:20px 20px 0px 20px;
+    border-bottom-style: solid;
+    border-width:2px;
+    border-color:#cccccc;
+
+}
+
+.left {
+    border-left-style:solid;
+    border-width:2px;
+    border-color:#cccccc;
 }
