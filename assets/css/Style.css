@@ -10,3 +10,11 @@
     background-color:#4aaaa5;
     color:#ffffff
 }
+.rounded{
+    height:200px;
+    width:200px;
+
+}
+body {
+    background-image: url("../images/memphis-mini.png");
+   }
