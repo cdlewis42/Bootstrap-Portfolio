@@ -32,7 +32,7 @@ body {
     height:500px;
     background-color:#ffffff;
 }
-#about{
+.about{
     color:#4aaaa5;
     font-family: 'Georgia', Times, "Times New Roman", serif;
     margin:20px 20px 0px 20px;
@@ -46,4 +46,8 @@ body {
     border-left-style:solid;
     border-width:2px;
     border-color:#cccccc;
+}
+.card{
+    height:200px;
+    width:200px;
 }
